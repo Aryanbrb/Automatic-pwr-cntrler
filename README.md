@@ -1,2 +1,2 @@
-# Automatic-pwr-cntrler
+# Automatic-pfc
 Automatic Power Factor Controller
